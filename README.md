@@ -12,4 +12,4 @@ Instalacion y configuracion de entorno de desarrollo
 
 ## Funcionamiento
 
-![](img/carro.jpg)
+![](img/10-cosas-sobre-ingenieria-civil.jpg)
